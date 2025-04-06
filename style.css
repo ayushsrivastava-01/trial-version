@@ -1,0 +1,6 @@
+*{
+    background: radial-gradient(green,pink);
+}
+h1{
+    text-shadow: 0 0 15px red;
+}
